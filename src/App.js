@@ -30,7 +30,7 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
-const analytics = getAnalytics(app);
+//const analytics = getAnalytics(app);
 
 function App() {
 
@@ -45,7 +45,7 @@ function App() {
               path="/"
               element={
                 <>
-                  <Typography variant="h1" fontWeight="bold"> Quiz App "Da d v2"</Typography>
+                  <Typography variant="h1" fontWeight="bold"> Quiz App "npm i"</Typography>
                   <Settings />
                 </>
               }
