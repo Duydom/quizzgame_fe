@@ -45,7 +45,7 @@ function App() {
               path="/"
               element={
                 <>
-                  <Typography variant="h1" fontWeight="bold"> Quiz App Da deploy co Dung CI/CD</Typography>
+                  <Typography variant="h1" fontWeight="bold"> Quiz App Da deploy CI/CD</Typography>
                   <Settings />
                 </>
               }
